@@ -45,6 +45,6 @@ class Auth {
 }
 
 export const auth = new Auth({
-  url: "http://localhost:3000"
+  url: "http://api.fedenev.nomoredomainsmonster.ru"
 });
 
