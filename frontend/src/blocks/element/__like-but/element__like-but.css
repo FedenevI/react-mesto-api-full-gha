@@ -1,0 +1,33 @@
+.element__like-but {
+  border: none;
+  background: url(../../../images/icon/like.svg);
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 19px;
+  cursor: pointer;
+  padding-bottom: 3px;
+}
+
+.element__like-but:hover {
+  opacity: 0.5;
+}
+
+.element__like-section {
+  width: 22px;
+  height: 35px;
+  margin-left: auto;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.element__counter {
+  width: 22px;
+  height: 13px;
+  color: black;
+  text-align: center;
+  padding-top: 3px;
+  font-size: 13px;
+  line-height: 16px;
+}
