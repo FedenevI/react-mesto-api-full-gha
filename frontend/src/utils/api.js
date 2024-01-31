@@ -99,7 +99,7 @@ class Api {
 }
 
 const api = new Api({
-    baseUrl: 'http://api.fedenev.nomoredomainsmonster.ru',
+    baseUrl: 'https://api.fedenev.nomoredomainsmonster.ru',
 });
 
 export default api;
