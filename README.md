@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 84.252.143.162
+IP 84.252.143.162
 
 Frontend https://fedenev.nomoredomainsmonster.ru/
 
