@@ -1,7 +1,7 @@
 const { HTTP_STATUS_OK, HTTP_STATUS_CREATED } = require('http2').constants;
 const { default: mongoose } = require('mongoose');
 
-const { SECRET_KEY } = process.env;
+const SECRET_KEY = '0ee546d67f1c3e5d2a38aabd57961002b1bd821f67729ee34820aa2c3076e7d5';
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const User = require('../models/user');
